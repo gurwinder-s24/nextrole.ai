@@ -26,7 +26,7 @@
 
 # 🚀 Live Deployment
 
-### Live URL [[click here](https://your-live-url.com/)]
+### Live URL [[click here](https://nextroleai-six.vercel.app/)]
 
 ---
 
