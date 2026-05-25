@@ -1,0 +1,25 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <linearGradient id="darkGradient" x1="120" y1="100" x2="400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular Background -->
+  <!-- <circle cx="256" cy="256" r="240" fill="url(#bgGradient)"/> -->
+
+  <!-- Outer Glow Circle -->
+  <!-- <circle cx="256" cy="256" r="160" fill="#FFFFFF" opacity="0.08"/> -->
+
+  <!-- Stylized N -->
+  <path d="M150 370V140H195L315 295V140H362V370H317L197 214V370H150Z" fill="url(#darkGradient)"/>
+
+  <!-- AI Dot Accent -->
+  <circle cx="390" cy="130" r="24" fill="#0F172A"/>
+</svg>
